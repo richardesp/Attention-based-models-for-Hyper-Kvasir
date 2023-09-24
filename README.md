@@ -1,5 +1,7 @@
 # Attention-based Models for Hyper-Kvasir
 
+![](static/atencion%20final%20corregido%20ajustado%20tamaño.gif)
+
 **Automatic and accurate analysis of medical images is a subject of great importance in our current society. In particular, this work focuses on gastrointestinal endoscopy images, as the study of these images helps to detect possible health conditions in those regions.**
 
 ## Table of Contents
