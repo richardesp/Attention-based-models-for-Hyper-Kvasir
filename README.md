@@ -118,4 +118,24 @@ We would like to extend our sincere gratitude to:
 
 for their invaluable contributions and insights that greatly benefited this project.
 
+## Citation
 
+If you use this work, please cite it as follows:
+
+```bibtex
+@inproceedings{espantaleon2023caip,
+  author       = {Ricardo Espantale{\'{o}}n{-}P{\'{e}}rez and
+                  Isabel Jim{\'{e}}nez{-}Velasco and
+                  Rafael Mu{\~{n}}oz{-}Salinas and
+                  Manuel J. Mar{\'{\i}}n{-}Jim{\'{e}}nez},
+  title        = {Empirical Study of Attention-Based Models for Automatic Classification
+                  of Gastrointestinal Endoscopy Images},
+  booktitle    = {Computer Analysis of Images and Patterns - 20th International Conference,
+                  {CAIP}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {14185},
+  pages        = {98--108},
+  year         = {2023},
+  doi          = {10.1007/978-3-031-44240-7\_10}
+}
+```
