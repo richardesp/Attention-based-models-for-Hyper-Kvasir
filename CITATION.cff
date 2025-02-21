@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following work:"
+authors:
+  - family-names: Espantaleón-Pérez
+    given-names: Ricardo
+  - family-names: Jiménez-Velasco
+    given-names: Isabel
+  - family-names: Muñoz-Salinas
+    given-names: Rafael
+  - family-names: Marín-Jiménez
+    given-names: Manuel J.
+title: "Empirical Study of Attention-Based Models for Automatic Classification of Gastrointestinal Endoscopy Images"
+type: article
+year: 2023
+doi: "10.1007/978-3-031-44240-7_10"
+conference:
+  name: "Computer Analysis of Images and Patterns - 20th International Conference, CAIP"
+  series: "Lecture Notes in Computer Science"
+  volume: "14185"
+pages: "98-108"
